@@ -7,7 +7,7 @@ This portfolio showcases projects, skills, and contact information with **smooth
 
 ## 🚀 Live Demo
 
-🔗 https://gauravmaurya036.github.io/portfolio
+🔗 https://portfolio-website-two-omega-11.vercel.app
 
 ---
 
